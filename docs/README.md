@@ -1,8 +1,6 @@
-# 📊 Relatory - Intelligent PDF Report Generation System
+# 📊 Kora - IA
 
 Um sistema inteligente para geração de relatórios a partir de PDFs com integração de chat IA.
-
-**Status**: Em desenvolvimento ✅
 
 ---
 
